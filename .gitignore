@@ -1,0 +1,39 @@
+
+# Python virtual environments
+.venv/
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Streamlit cache
+.streamlit/secrets.toml
+
+# Environment variables and credentials
+.env
+.env.*
+
+# Local databases
+*.db
+*.sqlite
+*.sqlite3
+
+# Dataset files
+data/raw/*.csv
+data/processed/*.csv
+data/synthetic/*.csv
+
+# Generated reports
+reports/
+*.log
+
+# System files
+.DS_Store
+Thumbs.db
+
+# IDE settings
+.vscode/
+.idea/
