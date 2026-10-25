@@ -146,7 +146,7 @@ real-world production environments.
 
 ### 1. Clone the repository
 
-git clone YOUR_REPOSITORY_URL
+git clone https://github.com/Monika-mls/CyberWatch.git
 
 cd CyberWatch-BDA
 
